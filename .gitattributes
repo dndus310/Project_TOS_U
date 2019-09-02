@@ -7,3 +7,7 @@ Content/_TOS/Resources/LandModels filter=lfs diff=lfs merge=lfs -text
 Content/_TOS/Resources/Materials filter=lfs diff=lfs merge=lfs -text
 Content/_TOS/Resources/Meshes filter=lfs diff=lfs merge=lfs -text
 Content/_TOS/Resources/Texture filter=lfs diff=lfs merge=lfs -text
+Content/InfinityBladeWeapons/Effects filter=lfs diff=lfs merge=lfs -text
+Content/InfinityBladeWeapons/Weapons filter=lfs diff=lfs merge=lfs -text
+Content/ParagonMinions/Characters filter=lfs diff=lfs merge=lfs -text
+Content/ParagonMinions/FX filter=lfs diff=lfs merge=lfs -text
